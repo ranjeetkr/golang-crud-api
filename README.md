@@ -22,9 +22,9 @@ go run main.go
 ## Description 
 This goLang CRUD API having with the below API endpoint
 
-- **POST : http://localhost:<port>/books** - API to save the book detail
-- **GET : http://localhost:<port>/books/<id>** - API to get the book detail by book ID
-- **GET : http://localhost:<port>/books** - API to list all the books
-- **PUT : http://localhost:<port>/books/<id>** - API to update book details
-- **DELETE : http://localhost:<port>/books/id** - API to delete book by id
+- **POST : http://localhost:[port]/books** - API to save the book detail
+- **GET : http://localhost:[port]/books/[id]** - API to get the book detail by book ID
+- **GET : http://localhost:[port]/books** - API to list all the books
+- **PUT : http://localhost:[port]/books/[id]** - API to update book details
+- **DELETE : http://localhost:[port]/books/[id]** - API to delete book by id
 
